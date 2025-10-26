@@ -2,7 +2,7 @@
   <img src="header.png" alt="header">
 </p>
 # Programacion_DAM
-Mis ejercicios de programacion
+
 # ¡Hola, soy Rodrigo! 👋
 
 Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM), inmerso en el fascinante mundo de la programación y la tecnología.
@@ -13,7 +13,7 @@ Mi objetivo es entender y dominar las herramientas que construyen el software em
 Aquí encontrarás mis trabajos de clase, proyectos personales y experimentos, reflejo de mi viaje para convertirme en un desarrollador versátil y competente.
 ---
 
-## Mis Intereses (y lo que aprenderás a hacer en DAM)
+## Mis Intereses (lo que aprenderé a hacer en DAM)
 
 * **Desarrollo Móvil:** Android (Java/Kotlin)
 * **Desarrollo Web:** Frontend (HTML, CSS, JavaScript) y Backend (Node.js, PHP, Java)
